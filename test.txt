@@ -1,1 +1,8 @@
 This is the first text text file
+
+
+git add filenames
+
+git commit -m "comment" filename
+
+git push -u orgin master
